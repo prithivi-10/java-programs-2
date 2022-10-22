@@ -1,3 +1,3 @@
-# java-programs-2
+# OOPS CONCEPT
 
 some of the simple java programs
